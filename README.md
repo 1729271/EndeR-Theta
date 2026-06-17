@@ -1,2 +1,2 @@
-# EndeR-Theta
-Modifying an Ender 3 Pro to utilize a Core-R Theta kinematic system.
+# EndeR-Theta - Incomplete
+A modified an Ender 3 Pro to utilize a Core-R Theta kinematic system.
