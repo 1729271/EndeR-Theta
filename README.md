@@ -2,6 +2,9 @@
 
 ## A completely redesigned Ender 3 Pro utilizing a Core-R Theta kinematic system.
 
+<img width="1157" height="731" alt="EndeR-Theta" src="https://github.com/user-attachments/assets/1a8d9bb7-f3ef-44a2-bc98-6007ba526f7d" />
+
+
 The Core-R Theta kinematic system uses two rotational axes on a polar printer rather than the traditional x, y, and z axes. This allows for multiplanner and supportless printing. Essentially, the bed can rotate (c-axis) and the toolhead can be moved in and out (r-axis). The z-axis is normal, able to move up and down. The difference between a Core-R Theta printer and polar printer lies in the toolhead rotation. The toolhead also has the ability to rotate, making it possible to print infinite overhangs without supports. Check out [Joshua Bird's Videos](https://www.youtube.com/@joshuayjbird) on his Core-Rθ printer and S4 slicer for a more detailed explanation. This is a complete redesign of the Creality Ender 3 Pro, using as many of the original or 3d printed parts as possible to minimize cost and maximize capability.
 
 ## Features  
@@ -21,3 +24,6 @@ The Core-R Theta kinematic system uses two rotational axes on a polar printer ra
 * [hyotyen - Github](https://github.com/hyotynen/Ender-3-Pro) - Orginial Ender 3 Pro CAD
 * [Robert Samples - Printables](https://www.printables.com/model/839699-complete-orbiter-v2-extruder-3d-model) - CAD for Orbiter 2.0 Extruder
 * [Waikikiprod - Printables](https://www.printables.com/model/264959-5015-radial-fan-3d-model-for-conception-step-stl-f) - CAD for 5015 Radial Fans
+
+## AI Usage
+* AI was not used in any part of this project.
