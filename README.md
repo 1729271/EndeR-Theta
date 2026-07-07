@@ -1,4 +1,9 @@
-# EndeR-Theta - CAD Complete (Mostly)
-A modified an Ender 3 Pro to utilize a Core-R Theta kinematic system.
-I am trying to use as many of the original parts as possible.  
-The Core-R Theta kinematic system uses two rotational axes on a polar printer rather than the traditional x, y, and z motion. This allows for supportless printing.  
+# EndeR-Theta
+
+##A completely redesigned Ender 3 Pro utilizing a Core-R Theta kinematic system.
+
+The Core-R Theta kinematic system uses two rotational axes on a polar printer rather than the traditional x, y, and z axes. This allows for multiplanner and supportless printing. Check out [Joshua Bird's Videos](https://www.youtube.com/@joshuayjbird) on his Core-Rθ printer and S4 slicer a detailed explanation
+
+##Known Issues
+*No Electronics Bay
+*No Limit Switches
