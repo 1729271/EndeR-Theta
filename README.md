@@ -17,6 +17,7 @@ The Core-R Theta kinematic system uses two rotational axes on a polar printer ra
 ## Known Issues
 * No Electronics Bay
 * No Limit Switches
+* No Heated Bed
 
 ## Refrences
 * [Joshua Bird - Github](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer?tab=readme-ov-file) - Inspiration / Original Core-R Theta Design
